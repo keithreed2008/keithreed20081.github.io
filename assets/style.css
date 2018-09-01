@@ -25,7 +25,7 @@ blockquote {padding: 0px 20px;margin: 0 0 20px;border-left: 5px solid #aaa;font-
 
 /*home*/
 .homeinfo{padding:250px 0 20px 0;}
-.homeinfo .player{margin-top: 80px;position: relative;}
+.homeinfo .player{margin-top: 150px;position: relative;}
 .homeinfo .player img.graphics{position: absolute;bottom: 200px;right: 9px;}
 .blockblack{background:rgba(0,0,0,0.8); border-radius: 10px; padding: 25px; }
 .fronttext h2{font-size:60px; line-height:60px;display: inline-block;padding:5px 10px;}
